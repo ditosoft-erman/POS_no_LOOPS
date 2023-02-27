@@ -7,7 +7,7 @@ public class them {
     static int product_Order;
     static int quantity;
     static int quantity1;
-    static int total_Order;
+    static int total_Order; 
     static int total_Order1;
     static int total;
     static int payment;
