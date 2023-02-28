@@ -10,7 +10,7 @@ public class them {
     static int total_Order; 
     static int total_Order1;
     static int total;
-    static int payment;
+    static int payment; 
     static int change;
     static int bottle;
     static String another_Order;
